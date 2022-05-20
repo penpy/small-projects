@@ -1,5 +1,5 @@
 # Small student projects
-The aim of this repository is to showcase some of the things I've learned during my studies, and keep a copy of some useful algorithms and techniques. Most of the are projects are Python nothebooks. Here are some examples of what you'll find inside:
+The aim of this repository is to showcase some of the things I've learned during my studies, and keep a copy of some useful algorithms and techniques. Here are some examples of what you'll find inside:
 
 ## Sorting algorithms
 <img src="./images/sorting_algos_comparison.png" alt="sorting_algos_comparison" width="512"/>
